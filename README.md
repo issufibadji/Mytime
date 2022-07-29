@@ -26,7 +26,7 @@
 
 ## :book: Sobre
 O **Mytime**
- é um projeto de relógio, que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [Alarm clock](https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/aula-1/edicao/2](https://dribbble.com/shots/5958443-Alarm-clock)
+ é um projeto de relógio, que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [Alarm clock](https://dribbble.com/shots/5958443-Alarm-clock)
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
