@@ -34,10 +34,10 @@ O projeto está hospedado no Github Pages
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- [HTML]()
-- [CSS]()
-- [jS]()
+<!-- ❌✔️ -->
+1. ✔️ (HTML)
+2. ✔️ (CSS)
+3. ✔️ (JS)
 
 
 ## 🔖Layout
