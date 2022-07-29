@@ -30,7 +30,7 @@ O **ProfileIssufiBadji**
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
->https://issufibadji.github.io/profileissufibadji/
+>https://issufibadji.github.io/mytime/
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
