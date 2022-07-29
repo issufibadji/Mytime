@@ -1,7 +1,4 @@
 # Mytime
-
-
-
 <h1 align="center" color=" ">
    ProfileIssufiBadji
 </h1>
@@ -25,8 +22,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/profileissufibadji?style=flat-square">
 </p>
 
-![profile](https://user-images.githubusercontent.com/45535344/181747699-d3e65620-9417-484a-8b36-66569a2e886a.mp4)
- 
+ ![mytime](https://user-images.githubusercontent.com/45535344/181749015-9efd89a3-860f-49b5-ab98-d60d254de9ca.gif)
 ## :book: Sobre
 O **ProfileIssufiBadji**
  Projeto desenvolvido de perfil de rede, que foi desenvolvido sociais durante as aulas da [Maratona Explore 2.0](https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/aula-1/edicao/2), com Mayk   Brito do [Rocketseat](https://www.rocketseat.com.br/)
@@ -40,6 +36,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML]()
 - [CSS]()
+- [jS]()
 
 
 ## 🔖Layout
