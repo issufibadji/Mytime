@@ -13,20 +13,20 @@
 
 <p align="center">
    
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/profileissufibadji?style=flat-square">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/mytime?style=flat-square">
 
-   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/profileissufibadji?style=flat-square">
+   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/mytime?style=flat-square">
 
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/profileissufibadji?style=flat-square">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/mytime?style=flat-square">
 
-   <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/profileissufibadji?style=flat-square">
+   <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/mytime?style=flat-square">
 </p>
 
 ![mytime](https://user-images.githubusercontent.com/45535344/181749015-9efd89a3-860f-49b5-ab98-d60d254de9ca.gif)
 
 ## :book: Sobre
-O **ProfileIssufiBadji**
- Projeto desenvolvido de perfil de rede, que foi desenvolvido sociais durante as aulas da [Maratona Explore 2.0](https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/aula-1/edicao/2), com Mayk   Brito do [Rocketseat](https://www.rocketseat.com.br/)
+O **Mytime**
+ é um projeto de relógio, que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [Alarm clock](https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/aula-1/edicao/2](https://dribbble.com/shots/5958443-Alarm-clock)
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
@@ -41,10 +41,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 ## 🔖Layout
-Para visualizar o layout do projeto crie ou acesse sua conta no [Figma](https://figma.com) e [desse link](https://www.figma.com/file/j8Fe7AGabn3hX2OCVLTB3i/Rocket-Links---Maratona-Explorer-2.0-(Community)?node-id=24%3A2) para acessá-lo.
+Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/5958443-Alarm-clock) para acessá-lo.
 
 ## :memo: Licença
-Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/profileissufibadji/blob/master/LINCENSE) para obter mais informações.
+Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/mytime/blob/master/LINCENSE) para obter mais informações.
 
 ---
 
