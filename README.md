@@ -1,6 +1,6 @@
 # Mytime
 <h1 align="center" color=" ">
-   ProfileIssufiBadji
+   Mytime
 </h1>
 
 <p align="center">
@@ -22,7 +22,11 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/mytime?style=flat-square">
 </p>
 
-![mytime](https://user-images.githubusercontent.com/45535344/181749015-9efd89a3-860f-49b5-ab98-d60d254de9ca.gif)
+<h1 align="center" color=" ">
+   Mytime
+</h1>
+
+![mytime](https://user-images.githubusercontent.com/45535344/182681921-276c95a4-e722-4383-bdaa-95cfeed09bc9.gif)
 
 ## :book: Sobre
 O **Mytime**
@@ -38,7 +42,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. ✔️ (HTML)
 2. ✔️ (CSS)
 3. ✔️ (JS)
-
+![mytime](https://user-images.githubusercontent.com/45535344/181749015-9efd89a3-860f-49b5-ab98-d60d254de9ca.gif)
 
 ## 🔖Layout
 Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/5958443-Alarm-clock) para acessá-lo.
