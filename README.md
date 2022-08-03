@@ -22,9 +22,9 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/mytime?style=flat-square">
 </p>
 
-<h1 align="center" color=" ">
+<h2 align="center" color=" ">
    Mytime
-</h1>
+</h2>
 
 ![mytime](https://user-images.githubusercontent.com/45535344/182681921-276c95a4-e722-4383-bdaa-95cfeed09bc9.gif)
 
