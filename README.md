@@ -42,6 +42,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. ✔️ (HTML)
 2. ✔️ (CSS)
 3. ✔️ (JS)
+
 ![mytime](https://user-images.githubusercontent.com/45535344/181749015-9efd89a3-860f-49b5-ab98-d60d254de9ca.gif)
 
 ## 🔖Layout
